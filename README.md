@@ -22,6 +22,7 @@
 | `docs/02-cases.md` | 案例解剖：海马、扇贝——从生物结构到参数化画法 |
 | `docs/03-pitfalls.md` | 踩坑清单：每条都对应一次真实返工 |
 | `docs/04-tooling.md` | 工具：结构自检、无视觉反馈时的替代方案 |
+| `docs/creatures/` | **动物图鉴**：11 只角色各一档，结构/比例/配色/坑/资产 |
 | `tools/imgcheck.py` | 像素图自检：尺寸/留白/连通域/对称/混色 |
 | `tools/ascii_preview.py` | 纯文本结构预览，看图工具不可用时的兜底 |
 
